@@ -1,11 +1,25 @@
 {
   "name": "password_generator_from_8_to_15_symbols",
   "version": "1.0.0",
-  "description": "Password generator",
+  "description": "Password generator from 8 to 15 symbols",
   "main": "src/generatePass.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repository"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/generatePass.js"
   },
   "author": "Ziuzin Ivan",
-  "license": "MIT"
+  "license": "ISC",
+  "keywords": [
+    "password generation",
+    "security",
+    "encryption",
+    "authentication",
+    "password generator",
+    "secret key",
+    "authorization"
+  ]
 }

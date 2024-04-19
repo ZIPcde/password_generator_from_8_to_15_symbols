@@ -30,5 +30,5 @@ function generatePassword() {
         rl.close();
     });
 }
-
+generatePassword()
 module.exports = { generatePassword };
