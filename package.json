@@ -1,13 +1,11 @@
 {
-  "name": "nodejs_02_npm",
+  "name": "password_generator_from_8_to_15_symbols",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Password generator",
+  "main": "src/generatePass.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ziuzin Ivan",
+  "license": "MIT"
 }
