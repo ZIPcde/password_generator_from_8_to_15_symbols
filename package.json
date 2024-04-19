@@ -5,7 +5,7 @@
   "main": "src/generatePass.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repository"
+    "url": "https://github.com/ZIPcde/password_generator_from_8_to_15_symbols.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
